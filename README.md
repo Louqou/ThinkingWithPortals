@@ -1,4 +1,4 @@
-# ThinkingWithPortals
+# Thinking With Portals
 Using portals to create spacial illusions. Such as:
 
 Warped Spaces
